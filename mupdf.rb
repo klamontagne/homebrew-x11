@@ -23,6 +23,7 @@ class Mupdf < Formula
            "verbose=yes",
            "CC=#{ENV.cc}",
            "prefix=#{prefix}"
+    bin.install_symlink "mutool" => "mudraw"
   end
 
   test do
