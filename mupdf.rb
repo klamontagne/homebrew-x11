@@ -1,6 +1,6 @@
 class Mupdf < Formula
   homepage "http://mupdf.com"
-  url "http://mupdf.com/downloads/mupdf-1.8-source.tar.gz"
+  url "http://mupdf.com/downloads/archive/mupdf-1.8-source.tar.gz"
   sha256 "a2a3c64d8b24920f87cf4ea9339a25abf7388496440f13b37482d1403c33c206"
 
   bottle do
